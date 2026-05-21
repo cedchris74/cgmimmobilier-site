@@ -1,7 +1,0 @@
-# robots.txt — CGM Immobilier
-# https://cgmimmobilier.ca
-
-User-agent: *
-Allow: /
-
-Sitemap: https://cgmimmobilier.ca/sitemap.xml
